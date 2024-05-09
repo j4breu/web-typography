@@ -6,9 +6,10 @@ An article about fonts.
 
 ### Learning Objectives
 
-- Justify typographic choices.
-- Apply design knowledge to web typography using CSS.
-- Learn how to use Git to version and collaborate on a web development project..
+- Master the Fundamentals: Gain a solid understanding of typography principles and their impact on user experience.
+- Justification & Implementation: Learn to critically evaluate and justify your typographic decisions for optimal readability and aesthetics.
+- CSS for Web Fonts: Explore how to leverage CSS to integrate and style fonts on your web projects.
+- Version Control with Git: Discover Git as a powerful tool to manage project versions and collaborate seamlessly.
 
 ### Additional Resources
 
